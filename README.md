@@ -1,2 +1,2 @@
 # IntroToJs
-A javascript code that prints my profile
+GITHUB PAGE LINK  https://mhzcee.github.io/IntroToJs/
